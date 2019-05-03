@@ -9,4 +9,4 @@ Process in the following three ways.
 * Bind(High-level API) ... It can not be realized by this method.
 * Bind(Low-level API)
 
-![javaFX2checkBox](https://github.com/63rabbits/javaFX2checkBox/blob/master/javaFX2checkBox.png?raw=true)
+![javaFX2checkBox](/javaFX2checkBox.png)
