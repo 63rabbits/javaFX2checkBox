@@ -1,6 +1,6 @@
 # javaFX2checkBox
 
-CheckBox By JavaFX2.
+CheckBox by JavaFX2.
 
 Indicates the state of the check box by ON / OFF.  
 Process in the following three ways.
